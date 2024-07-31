@@ -16,7 +16,7 @@ export const colors = {
     sapuris200: '#685a7c',
     sapuris300: '#6f5c7c',
     sapuris400: '#654b8c',
-    sapuris500: '#533b7a',
+    sapuris500: '#6E4BA7',
     sapuris600: '#4c3768',
     sapuris700: '#392a46',
     sapuris800: '#2e2734',
