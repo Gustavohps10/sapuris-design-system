@@ -1,0 +1,6 @@
+{
+    "extends": "@sapuris-ui/ts-config/base.json",
+    "include": [
+        "src"
+    ]
+}
