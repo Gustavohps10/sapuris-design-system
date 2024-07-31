@@ -1,5 +1,5 @@
 {
-  "name": "@sapuris-ui/tokens",
+  "name": "@sapuris-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@sapuris-ui/tokens": "*",
     "tsup": "^8.2.3",
     "typescript": "^5.5.4"
   }
