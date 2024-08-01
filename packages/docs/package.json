@@ -12,6 +12,7 @@
     "@storybook/addon-links": "^8.2.6",
     "@storybook/addon-onboarding": "^8.2.6",
     "@storybook/blocks": "^8.2.6",
+    "@storybook/builder-vite": "^8.2.7",
     "@storybook/react": "^8.2.6",
     "@storybook/react-vite": "^8.2.6",
     "@storybook/test": "^8.2.6",
@@ -21,9 +22,9 @@
     "vite": "^5.3.5"
   },
   "dependencies": {
+    "@sapuris-ui/eslint-config": "*",
     "@sapuris-ui/react": "*",
     "@sapuris-ui/tokens": "*",
-    "@sapuris-ui/eslint-config": "*",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   }
