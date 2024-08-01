@@ -23,8 +23,10 @@
   },
   "dependencies": {
     "@sapuris-ui/eslint-config": "*",
+    "@sapuris-ui/ts-config": "*",
     "@sapuris-ui/react": "*",
     "@sapuris-ui/tokens": "*",
+    "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   }
