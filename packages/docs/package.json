@@ -16,6 +16,7 @@
     "@storybook/react": "^8.2.6",
     "@storybook/react-vite": "^8.2.6",
     "@storybook/test": "^8.2.6",
+    "@storybook/addon-a11y": "^8.2.7",
     "@vitejs/plugin-react": "^4.3.1",
     "prop-types": "^15.8.1",
     "storybook": "^8.2.6",
@@ -26,7 +27,6 @@
     "@sapuris-ui/react": "*",
     "@sapuris-ui/tokens": "*",
     "@sapuris-ui/ts-config": "*",
-    "@storybook/addon-a11y": "^8.2.7",
     "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
