@@ -30,5 +30,20 @@ const config = {
   core: {
     builder: '@storybook/builder-vite',
   },
+  async viteFinal(config, { configType }) {
+    const { mergeConfig } = await import('vite');
+    if (configType === 'PRODUCTION') {
+      config.base = 'sapuris-design-system'
+    }
+    return config
+
+    // if (configType === 'DEVELOPMENT') {
+    //   // Your development configuration goes here
+    // }
+
+    // return mergeConfig(config, {
+    //   // Your environment configuration here
+    // });
+  },
 };
 export default config;
