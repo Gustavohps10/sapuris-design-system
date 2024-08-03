@@ -1,7 +1,7 @@
 # @sapuris-ui/react
 
-## 2.0.0
+## 1.0.1
 
-### Major Changes
+### Patch Changes
 
-- add components
+- add forwardRef to TextInput react component
