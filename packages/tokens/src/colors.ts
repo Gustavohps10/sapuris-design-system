@@ -25,4 +25,6 @@ export const colors = {
   wine400: '#745A6E',
   wine500: '#66495F',
   wine600: '#57374F',
+
+  test: '#000',
 }
