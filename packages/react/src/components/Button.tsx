@@ -3,7 +3,7 @@ import { styled } from '../styles'
 
 export const Button = styled('button', {
   all: 'unset',
-  borderRadius: '$sm',
+  borderRadius: '$md',
   fontSize: '$sm',
   fontWeight: '$medium',
   fontFamily: '$default',
@@ -18,7 +18,7 @@ export const Button = styled('button', {
   gap: '$2',
 
   cursor: 'pointer',
-  transition: 'all .1s ease',
+  transition: 'all .1s linear',
 
   svg: {
     width: '$4',
@@ -37,10 +37,10 @@ export const Button = styled('button', {
     variant: {
       primary: {
         color: '$white',
-        background: '$sapuris500',
+        background: '$sapuris400',
 
         '&:not(:disabled):hover': {
-          background: '$sapuris400',
+          background: '$sapuris500',
         },
 
         '&:disabled': {
@@ -49,11 +49,11 @@ export const Button = styled('button', {
       },
 
       secondary: {
-        color: '$sapuris300',
-        border: '2px solid $sapuris500',
+        color: '$sapuris700',
+        border: '2px solid $sapuris700',
 
         '&:not(:disabled):hover': {
-          background: '$sapuris500',
+          background: '$sapuris700',
           color: '$white',
         },
 
@@ -68,8 +68,8 @@ export const Button = styled('button', {
         color: '$gray400',
 
         '&:not(:disabled):hover': {
-          background: '$sapuris200',
-          color: '$gray100',
+          background: '$wine400',
+          color: '$white',
         },
 
         '&:disabled': {
