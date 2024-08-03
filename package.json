@@ -7,10 +7,14 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=./packages/react && changeset publish"
   },
   "license": "MIT",
   "devDependencies": {
+    "@changesets/cli": "^2.27.7",
     "turbo": "^2.0.11"
   }
 }
