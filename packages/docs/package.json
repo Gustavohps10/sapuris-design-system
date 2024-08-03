@@ -2,11 +2,13 @@
   "name": "@sapuris-ui/docs",
   "scripts": {
     "dev": "storybook dev -p 6006",
-    "build": "storybook build"
+    "build": "storybook build",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "license": "MIT",
   "devDependencies": {
     "@chromatic-com/storybook": "^1.6.1",
+    "@storybook/addon-a11y": "^8.2.7",
     "@storybook/addon-essentials": "^8.2.6",
     "@storybook/addon-interactions": "^8.2.6",
     "@storybook/addon-links": "^8.2.6",
@@ -15,8 +17,8 @@
     "@storybook/builder-vite": "^8.2.7",
     "@storybook/react": "^8.2.6",
     "@storybook/react-vite": "^8.2.6",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/test": "^8.2.6",
-    "@storybook/addon-a11y": "^8.2.7",
     "@vitejs/plugin-react": "^4.3.1",
     "prop-types": "^15.8.1",
     "storybook": "^8.2.6",
