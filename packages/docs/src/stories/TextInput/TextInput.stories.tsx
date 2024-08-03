@@ -18,10 +18,12 @@ export default {
     },
   ],
 } as Meta<TextInputProps>
+
 export const Primary: StoryObj<TextInputProps> = {
   args: { placeholder: 'Type your name' },
 }
 export const Disabled: StoryObj<TextInputProps> = { args: { disabled: true } }
+
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: { prefix: 'prefix.com/', placeholder: 'your-username' },
 }
