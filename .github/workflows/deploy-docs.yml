@@ -27,11 +27,7 @@ jobs:
           TURBO_TEAM: gustavohps10s-projects
 
       - name: Deploy storybook
-        
-        with:
-          working-directory: ./packages/docs
-          run: npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
-          jekyll: false
-        
+        working-directory: ./packages/docs
+        run: npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
         env:
           GH_TOKEN: ${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}
