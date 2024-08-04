@@ -12,6 +12,9 @@
 ## :page_with_curl: Description
 This is my own design system, it contains a series of visual elements and style patterns that I use to develop my everyday applications.
 
+## :art: Colors
+<p align="center"><img width="100%" src=".github/colors.png"></p>
+
 ## :game_die: Components
 
 - [x] Text 
@@ -23,6 +26,7 @@ This is my own design system, it contains a series of visual elements and style 
 - [x] Checkbox
 - [x] Avatar
 - [x] MultiStep
+- [More](https://gustavohps10.github.io/sapuris-design-system/)
 
 ## :gear: Running
 
