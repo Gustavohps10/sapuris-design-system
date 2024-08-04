@@ -1,0 +1,4 @@
+import{j as o}from"./jsx-runtime-BlAj40OV.js";import{useMDXComponents as n}from"./index-BI1Biiay.js";import"./chunk-HLWAVYOI-Dt3efQha.js";import{ae as r}from"./index-B2IZv04_.js";import{T as i}from"./TokensGrid-BcfS4Pg3.js";import{s as m}from"./index-Btx-9lEe.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./iframe-D9LxZaQA.js";import"../sb-preview/runtime.js";import"./react-18-B8QpLNLP.js";import"./index-BU4L-DQy.js";import"./index-D-8MO0q_.js";import"./index-nrpnv_Jx.js";import"./index-DrFu-skq.js";function s(t){const e={h1:"h1",p:"p",...n(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(r,{title:"Tokens/Space"}),`
+`,o.jsx(e.h1,{id:"space",children:"Space"}),`
+`,o.jsx(e.p,{children:"Esses são os tamanhos de espaços utilizados no Sapuris UI."}),`
+`,o.jsx(i,{tokens:m,hasRemValue:!0})]})}function T(t={}){const{wrapper:e}={...n(),...t.components};return e?o.jsx(e,{...t,children:o.jsx(s,{...t})}):s(t)}export{T as default};

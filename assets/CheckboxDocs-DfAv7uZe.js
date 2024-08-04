@@ -1,0 +1,4 @@
+import{j as o}from"./jsx-runtime-BlAj40OV.js";import{useMDXComponents as e}from"./index-BI1Biiay.js";import{ae as i,af as m}from"./index-B2IZv04_.js";import{C as s,P as a}from"./Checkbox.stories-4YHUlLlC.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./iframe-D9LxZaQA.js";import"../sb-preview/runtime.js";import"./index-BU4L-DQy.js";import"./index-D-8MO0q_.js";import"./index-nrpnv_Jx.js";import"./index-DrFu-skq.js";import"./index-CT4_wojG.js";function n(t){const r={h1:"h1",h3:"h3",...e(),...t.components};return o.jsxs(o.Fragment,{children:[o.jsx(i,{of:s}),`
+`,o.jsx(r.h1,{id:"checkbox",children:"Checkbox"}),`
+`,o.jsx(r.h3,{id:"primary",children:"Primary"}),`
+`,o.jsx(m,{of:a})]})}function k(t={}){const{wrapper:r}={...e(),...t.components};return r?o.jsx(r,{...t,children:o.jsx(n,{...t})}):n(t)}export{k as default};
