@@ -25,7 +25,7 @@ npm i @sapuris-ui/tokens
 
 ### React components
 ```
-@sapuris-ui/react
+npm i @sapuris-ui/react
 ```
 
 ### Docs - Storybook
