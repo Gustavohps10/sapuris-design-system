@@ -15,6 +15,20 @@ This is my own design system, it contains a series of visual elements and style 
 ## :art: Colors
 <p align="center"><img width="100%" src=".github/colors.png"></p>
 
+## :package: Packages
+### Tokens
+```
+npm i @sapuris-ui/tokens
+```
+
+### React components
+```
+@sapuris-ui/react
+```
+
+### Docs - Storybook
+> https://gustavohps10.github.io/sapuris-design-system
+
 ## :game_die: Components
 
 - [x] Text 
