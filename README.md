@@ -12,6 +12,8 @@
 ## :page_with_curl: Description
 This is my own design system, it contains a series of visual elements and style patterns that I use to develop my everyday applications.
 
+> 💡 __SAPURIS__, refers to the pronunciation of the term サープリス (Sāpurisu), which is a Japanese translation of the English term "surplice". This term is used in the anime Saint Seiya to represent the undead costumes worn by the Specters. [Read More](https://saintseiya.fandom.com/pt-br/wiki/Sobrepelizes_de_Hades)
+
 ## :art: Colors
 <p align="center"><img width="100%" src=".github/colors.png"></p>
 
