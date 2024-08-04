@@ -10,7 +10,7 @@
 <p align="center"><img width="100%" src=".github/storybook.png"></p>
 
 ## :page_with_curl: Description
-This is my own design system, it contains a series of visual elements and styling patterns that I use in my everyday life.
+This is my own design system, it contains a series of visual elements and style patterns that I use to develop my everyday applications.
 
 ## :game_die: Components
 
@@ -44,12 +44,16 @@ npm run dev
 ## :hammer_and_wrench: Tools
 <p>
   <img src="https://img.shields.io/static/v1?label=&message=NPM&colorA=2a2a2a&colorB=1a1a1e&logo=npm&style=flat-square&logoColor=C53635">
+  <img src="https://img.shields.io/static/v1?label=&message=Changesets&colorA=2a2a2a&colorB=1a1a1e&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD/AP8A/6C9p5MAAAAHdElNRQfoCAQAFTsPb+DpAAAD1ElEQVQ4y+WUS2xVZRSF1/8459zHoRdu097SFoNQBTQCkmgwKCZNTCQG4psgjhjgBCPOMMbEhAGkKDqBCXGgSHBClAnRMPCJFAZCkJDyiAFRyqW1j9vee8/5/3/v7aCiU2cOXNnjlS9rryzgfyfVv/1I9wyXljCLVeSRWAkFK+MVk9+6eHBza92bR3Hqg20AgN3fXcfQxD3YXrlVaKjiQkB3aQ6xNkaMAadRuK5qO05snHJ2byCqgrwo9mTEj1nKhks6+6y/TMP1FrvBV15CX5Lbm66wxqloixizzmhTsxrWaKNiIzOp8butKDNGzDEF7gETEAIChX7HvMqzPBWyMNQTtz+pJo5GmvHLubJvizbLDLSxULDQMEpBWHEBesxWTWtklnA2EA8gOIA8QA7CTjvyA8L5O3UXJq9Oy2wL+l3R6j4rDAbAArARWFFINJ0vRu6CGe/blHXEfjZ4v16Cnw/KAXYAOYBysHcVHUUDxcUDj4e4vFIABSgIFABABIjA9ZLyew7u7zxjutc+h86S/s3l2Qz5fBWTqyDMUc4RO/C8Si1atLQ/KRQ0IHcPgMCCb5cQ3q+acPSBR5reNM9/jtqqQZqf8EWXZ1cQXApyFVCuQTkrcgqdXdr2LlbFJBYl4pVSuQFPxYp+LOuwt2b8p4Gk9dHTvTAAMPbTCfSvWEu9hfyKACdj+NOJZFPKt8vCVJFqdxwtXKTSJM6L8FdTHb4oR7yvqsOBmm2fdUT+0DOLAWDOEABGL3wNv3ANIuR2ppmtb2buWef9MvJ5SaUdKlm0RNmooAN06kWVmfgWJJy7nZnWseeX/l1sOxfsKHo27EMpsWl9xu1s57yTgl8wl2MOPVUPkffwzJahyiR6ddBqgET110y2+4nD1yZf7GvhjcGV0ADw2JYPUf9yP8Yb2cZ2FnaQdwsQMiBkAOUSN+rfFo18FYg5BIYjQpuQNoLedidEmzdWx9XpP+w/hPXpFu7d8HrXaMO9So66wH99mTwihJGCn93TUS40J8j1emUfZmiIACKoaOitJ6c6TyjIrwCgj3x8ALcn25hp+WXBu9V3yRRlPoY7m0by1vJaxzeD3eZMCrcrYvc9B3IhEDwJ2oQVU149dKOtsf3YZZhWXMPIjSZiG5Y77x7VwhORonOJDofLMQ8tKKlTk602T9+/DvMj/wtYndKQUUB5Dc6M0HQCP/zztcKlFT1N2JYLQGMMUXnecEy8tVws8ry0ONmV6MlLEzG/sLyBoUPHcfP0ccgPu+TBi69deTL9/b3LoXrIu7zT584UonAHe/sQDt/4r9fzX+hPS+cxr0EVeSQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDgtMDRUMDA6MjE6NTkrMDA6MDDnez24AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA4LTA0VDAwOjIxOjU5KzAwOjAwliaFBAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wOC0wNFQwMDoyMTo1OSswMDowMMEzpNsAAAAASUVORK5CYII=">
+  <img src="https://img.shields.io/static/v1?label=&message=Turborepo&colorA=2a2a2a&colorB=1a1a1e&logo=turborepo&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=2a2a2a&colorB=1a1a1e&logo=typescript&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Vite&colorA=2a2a2a&colorB=1a1a1e&logo=vite&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=React&colorA=2a2a2a&colorB=1a1a1e&logo=react&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Radix UI&colorA=2a2a2a&colorB=1a1a1e&logo=radixui&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Storybook&colorA=2a2a2a&colorB=1a1a1e&logo=storybook&style=flat-square">
-<img src="https://img.shields.io/static/v1?label=&message=Stitches&colorA=2a2a2a&colorB=1a1a1e&logo=stitches&style=flat-square">
+  <img src="https://img.shields.io/static/v1?label=&message=Actions&colorA=2a2a2a&colorB=1a1a1e&logo=github-actions&style=flat-square&logoColor=ffffff">
+  <img src="https://img.shields.io/static/v1?label=&message=CI/CD&colorA=2a2a2a&colorB=1a1a1e&logo=github&style=flat-square&logoColor=ffffff">
+    
 </p>
 
 ## :adult: Contributors
